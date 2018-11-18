@@ -1,0 +1,17 @@
+Video
+C:/Video/1.mpg
+15000000
+13-05-2007
+17-05-2007
+Questo file contiene un programma di RAI uno.
+mpg
+3600
+Immagine
+C:/Immagini/Img.jpg
+1500000
+13-05-2007
+13-05-2007
+Questo file è un immagine
+jpg
+120
+150

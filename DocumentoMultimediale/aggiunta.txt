@@ -1,0 +1,25 @@
+Immagine
+C:/Images/ciao.gif
+10000
+05-05-2007
+06-05-2007
+Rosa
+gif
+300
+200
+Video
+C:/Video/video1.mpg
+15000000
+13-05-2007
+17-05-2007
+Questo file contiene un programma di RAI uno.
+mpg
+3600
+Video
+C:/Video/video2.mpg
+15000000
+13-05-2007
+17-05-2007
+Questo file contiene un programma di RAI uno.
+mpg
+3600
