@@ -1,0 +1,7 @@
+codice fiscale FNZGFT56C24A783S
+nome LUIGI
+cognome ROSSI
+citta AVELLINO
+indirizzo VIA DEL POZZO 23
+provincia AV
+cap 83423

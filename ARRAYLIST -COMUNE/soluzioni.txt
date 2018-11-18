@@ -1,0 +1,28 @@
+23app
+parco delle rose
+via roma
+34
+3
+5
+120
+200000
+caserta
+23ind
+parco dei principi
+via lufino
+35
+4
+6
+130
+30000
+benevento
+24out
+parco delle rosaie
+via benevento
+38
+9
+10
+3
+140
+50000
+foggia
